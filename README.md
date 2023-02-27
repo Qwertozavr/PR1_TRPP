@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Traitor_ _ _
+=======
+# Traitor _ _ _
+>>>>>>> branch2
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
